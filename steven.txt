@@ -1,6 +1,5 @@
 <span id="a">steven@corzo</span>:<span id="b">~</span><span id="c">$</span> cd corznet/<!-- laglaglaglaglaglag -->About_Us
 <span id="a">steven@corzo</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->steven.txt<br/><br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Steven Corzo<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I'm currently pursuing a Bachelor's in Computer Science at Florida International University.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
