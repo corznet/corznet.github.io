@@ -5,7 +5,7 @@ Hey There! I am Steven Corzo<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I'm currently pursuing a Bachelor's in Computer Science at Florida International University.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p>Some of my notable skills/languages involve Java,Python,Swift,C,HTML,CSS</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Im a strong learner and always looking for new challenges.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> My other links are here: <br> <a href="www.linkedin.com/in/steven-corzo">LinkedIn</a> <br> <a href="https://github.com/corznet">GitHub</a>
+<p> My other links are here: <br> <a href="https://www.linkedin.com/in/steven-corzo">LinkedIn</a> <br> <a href="https://github.com/corznet">GitHub</a>
 
 If you'd like to reach out<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto: scorzo1684@gmail.com">scorzo1684@gmail.com</a>.
 
